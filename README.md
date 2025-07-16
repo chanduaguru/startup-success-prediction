@@ -47,7 +47,7 @@ Model Performance
 Screenshots
 
 - Admin Dashboard
-- <img width="598" height="629" alt="Screenshot 2025-07-01 111228" src="https://github.com/user-attachments/assets/c69217f8-ca30-4abe-b997-c5b9419030c6" />
+<img width="1199" height="658" alt="Screenshot 2025-07-16 231551" src="https://github.com/user-attachments/assets/347262b3-1479-408a-8f96-87560c0f5651" />
 
 - Prediction Form
 - <img width="460" height="568" alt="Screenshot 2025-06-30 165028" src="https://github.com/user-attachments/assets/5f5b575b-c6fb-4857-902d-6e75fee8e014" />
